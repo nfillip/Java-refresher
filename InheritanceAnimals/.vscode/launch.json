@@ -1,0 +1,77 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "JAVA-1_9822978d"
+    },
+    {
+      "type": "java",
+      "name": "InputCalculatorScanner",
+      "request": "launch",
+      "mainClass": "InputCalculatorScanner",
+      "projectName": "JAVA-1_9822978d"
+    },
+    {
+      "type": "java",
+      "name": "MinMaxChallenge",
+      "request": "launch",
+      "mainClass": "MinMaxChallenge",
+      "projectName": "JAVA-1_9822978d"
+    },
+    {
+      "type": "java",
+      "name": "SystemConsoleChallenge",
+      "request": "launch",
+      "mainClass": "SystemConsoleChallenge",
+      "projectName": "JAVA-1_9822978d"
+    },
+    {
+      "type": "java",
+      "name": "SystemConsole",
+      "request": "launch",
+      "mainClass": "SystemConsole",
+      "projectName": "JAVA-1_9822978d"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "ForState",
+      "request": "launch",
+      "mainClass": "ForState",
+      "projectName": "JAVA-1_9822978d"
+    },
+    {
+      "type": "java",
+      "name": "IfThen",
+      "request": "launch",
+      "mainClass": "IfThen",
+      "projectName": "JAVA-1_9822978d"
+    },
+    {
+      "type": "java",
+      "name": "SwitchS",
+      "request": "launch",
+      "mainClass": "SwitchS",
+      "projectName": "JAVA-1_9822978d"
+    },
+    {
+      "type": "java",
+      "name": "methodOverloading",
+      "request": "launch",
+      "mainClass": "methodOverloading",
+      "projectName": "JAVA-1_9822978d"
+    }
+  ]
+}
